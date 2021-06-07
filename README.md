@@ -53,9 +53,9 @@ Input_sequence file must be in single line fasta and sequence length must be >=1
 window_size must be the same number used in Model_building step. As different window size will generate different number of feature vector, hence model will not be able to test any feature vector.
 
 
-==================
+
 *Output description [Scanning module]*
-==================
+
 
 Input_sequence_output.tsv File contain 3 columns:
 Seuqence_name	Start_coordinate	End_coordinate
