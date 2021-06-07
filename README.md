@@ -1,6 +1,6 @@
-===============
+
 *Requirements*
-===============
+
 1. Python3
 2. Numpy
 3. Pandas
@@ -11,9 +11,9 @@
 8. keras
 9. tensorflow
 10. gcc
-==================
+
 *Running script[model building]*
-==================
+
 This script contain two modules:
 1. For model building (This module requires CLIP-Seq peak data in bed file format)
 
@@ -25,17 +25,17 @@ bedfile contains peak data for CLIP-seq data, bedfile can be given with any name
 
 window size can vary between 17-131. For optimum result try with variable window size.
 
-==================
+
 *Output description [model building]*
-==================
+
 bedfile_model
 
 Folder contaiining the model file in .pb format and it's assets and variable.
 
 
-==================
+
 *Running script [Scanning module]*
-==================
+
 
 2. For scanning sequences with built model we requires five files in Model_Scan folder:
 (i). Input sequences
