@@ -11,6 +11,7 @@
 8. keras
 9. tensorflow
 10. gcc
+11. Download hg19.fa file from UCSC
 
 *Running script[model building]*
 
