@@ -11,7 +11,7 @@
 8. keras
 9. tensorflow
 10. gcc
-11. Download hg19.fa file from UCSC
+11. Download hg19.fa file from UCSC and put it into "Model_building" directory with "hg19.fa" name.
 
 *Running script[model building]*
 
