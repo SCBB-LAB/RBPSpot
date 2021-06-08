@@ -78,4 +78,11 @@ Seuqence_name	Start_coordinate	End_coordinate
   Web-server version for 131 RBPs available at:
   
   https://scbb.ihbt.res.in/RBPSpot/
+  
+  Citation:
+  https://www.biorxiv.org/content/10.1101/2021.06.07.447370v1
+  
+  RBPSpot: Learning on Appropriate Contextual Information for RBP Binding Sites Discovery
+  
+  DOI: https://doi.org/10.1101/2021.06.07.447370 
 
