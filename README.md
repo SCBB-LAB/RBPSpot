@@ -46,10 +46,10 @@ Folder contaiining the model file in .pb format and it's assets and variable.
 
 2. For scanning sequences with built model we requires five files in Model_Scan folder:
 (i). Input sequences
-(ii). bedfile_model folder [Generated after model muilding process]
-(iii). bedfile_penta_Prob_value [Generated after model muilding process]
-(iv). bedfile_penta_Prob_value [Generated after model muilding process]
-(v). bedfile_primary_motif [Generated after model muilding process]
+(ii). bedfile_model folder [Generated after model building process]
+(iii). bedfile_penta_Prob_value [Generated after model building process]
+(iv). bedfile_penta_Prob_value [Generated after model building process]
+(v). bedfile_primary_motif [Generated after model building process]
 
 To run the script:
 
