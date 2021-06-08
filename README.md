@@ -74,4 +74,8 @@ Seuqence_name	Start_coordinate	End_coordinate
   
   E.g.
   Example_sequence.fa_output.tsv
+  
+  Web-server version for 131 RBPs available at:
+  
+  https://scbb.ihbt.res.in/RBPSpot/
 
