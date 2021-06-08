@@ -20,7 +20,7 @@ This script contain two modules:
 
 To run the script:
 
-./RBPSpot_model <bedfile> <window size>
+./RBPSpot_model <bed_file> <window size>
   
   E.g.
   ./RBPSpot_model Example.bed 17
@@ -53,7 +53,7 @@ Folder contaiining the model file in .pb format and it's assets and variable.
 
 To run the script:
 
-./scan <bedfile> <Input_sequence>  <window_size>
+./scan <bed_file> <Input_sequence>  <window_size>
   
   E.g.
   Shift "Example.bed_model" directory into Model_Scan directory along with Example.bed_penta_Prob_value, Example.bed_penta_Prob_value and Example.bed_primary_motif files.
