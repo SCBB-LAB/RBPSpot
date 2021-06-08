@@ -20,7 +20,7 @@ This script contain two modules:
 
 To run the script:
 
-./RBPSpot_model <bed_file> <window size>
+./RBPSpot_model <bed_file> <window_size>
   
   E.g.
   ./RBPSpot_model Example.bed 17
