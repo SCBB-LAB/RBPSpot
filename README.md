@@ -55,6 +55,9 @@ To run the script:
 
 ./scan <bed_file> <Input_sequence>  <window_size>
   
+  For parallel:
+  sh parallel.sh <Number of Processors> <Input_sequence> <bed_file>  <window_size>
+  
   E.g.
   Shift "Example.bed_model" directory into Model_Scan directory along with Example.bed_penta_Prob_value, Example.bed_penta_Prob_value and Example.bed_primary_motif files.
   Then run:
