@@ -25,6 +25,10 @@ To run the script:
   E.g.
   ./RBPSpot_model Example.bed 17
 
+To build the model with XGboost:
+
+python3 xgb_model.py Example.bed_train Example.bed_test
+
 bedfile contains peak data for CLIP-seq data, bedfile can be given with any name, but it's name will be used as prefix for all the files generated in this step. And also some of the file will be used in next step.
 
 window size can vary between 17-131. For optimum result try with variable window size.
