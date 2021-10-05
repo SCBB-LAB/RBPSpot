@@ -10,7 +10,7 @@ f2=str(sys.argv[2])
 train= np.loadtxt(f1)
 trainfeatures=train[:,1:]
 trainlab=train[:,0]
-test= np.loadtxt(f1)
+test= np.loadtxt(f2)
 testfeatures=test[:,1:]
 testlab=test[:,0]
 
