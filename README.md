@@ -87,9 +87,9 @@ Seuqence_name	Start_coordinate	End_coordinate
   https://scbb.ihbt.res.in/RBPSpot/
   
   Citation:
-  https://www.biorxiv.org/content/10.1101/2021.06.07.447370v1
+  https://doi.org/10.1016/j.isci.2021.103381
   
   RBPSpot: Learning on Appropriate Contextual Information for RBP Binding Sites Discovery
   
-  DOI: https://doi.org/10.1101/2021.06.07.447370 
+  DOI: https://doi.org/10.1016/j.isci.2021.103381
 
