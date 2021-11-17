@@ -86,5 +86,5 @@ Seuqence_name	Start_coordinate	End_coordinate
   
   https://scbb.ihbt.res.in/RBPSpot/
   
-  Citation: Sharma et al., iScience 24,103381 December 17, 2021. https://doi.org/10.1016/j.isci.2021.103381
+  Citation: Sharma NK, Gupta S, Kumar A, Kumar P, Pradhan UK, Shankar R (2021) RBPSpot: Learning on appropriate contextual information for RBP binding sites discovery. iScience 24(12): e0258550. https://doi.org/10.1016/j.isci.2021.103381.
 
